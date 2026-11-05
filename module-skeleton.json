@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-estimates-and-quotes-dart-mobile",
+  "capabilityKey": "liberusoftware/module-accounting-estimates-and-quotes",
+  "presentation": "dart-mobile",
+  "package": "module_accounting_estimates_and_quotes_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/accounting/nextjs/estimates-and-quotes.md",
+  "presentationPlan": "projects/accounting/features/estimates-and-quotes.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
